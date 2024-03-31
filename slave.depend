@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711712093 source:e:\school\2nd sem\slave\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<conio.h>
+
